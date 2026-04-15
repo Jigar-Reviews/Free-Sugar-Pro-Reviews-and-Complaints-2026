@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jigar-reviews.github.io/Free-Sugar-Pro-Reviews-and-Complaints-2026/sitemap.xml
